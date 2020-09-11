@@ -1,0 +1,2 @@
+# MIPSCPU
+一个单周期MIPS架构CPU
