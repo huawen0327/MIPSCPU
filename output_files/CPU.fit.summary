@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Sep 11 18:58:58 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : CPU
+Top-level Entity Name : CPU
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 2,127 / 6,272 ( 34 % )
+    Total combinational functions : 2,031 / 6,272 ( 32 % )
+    Dedicated logic registers : 1,597 / 6,272 ( 25 % )
+Total registers : 1597
+Total pins : 33 / 92 ( 36 % )
+Total virtual pins : 0
+Total memory bits : 196,608 / 276,480 ( 71 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
